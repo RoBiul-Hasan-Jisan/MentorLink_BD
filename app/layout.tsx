@@ -1,5 +1,6 @@
 import type { ReactNode } from 'react';
 import './globals.css';
+import './fx.css';
 
 export const metadata = {
   title: 'MentorLink BD',
