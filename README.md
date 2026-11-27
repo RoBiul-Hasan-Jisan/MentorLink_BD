@@ -10,7 +10,7 @@ npm run build && npm start
 ```
 
 ## What is on the page
-Hero with a live phone preview, how it works, features, six interactive demos (Readiness, Mentor match,
+Hero with a live phone preview, "See what happens in the app" scenarios (`components/scenarios.ts`), how it works, features, six interactive demos (Readiness, Mentor match,
 Scam check, Hiring pipeline, Proof Arena, Career Passport), roles, principles.
 
 ## Design
